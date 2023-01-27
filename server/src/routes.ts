@@ -3,7 +3,7 @@ import { prisma } from './lib/prisma'
 import { z } from 'zod'
 import dayjs from 'dayjs'
 
-export async function appRouters(app: FastifyInstance) {
+export async function appRoutes(app: FastifyInstance) {
   app.post('/habits', async (request) => {
     const createHabitBody = z.object({
       title: z.string(),
