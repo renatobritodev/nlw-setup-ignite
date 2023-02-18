@@ -10,3 +10,10 @@ Projeto portfolio desenvolvido pela Rocketseat no evento NLW
 
 
 ![image](https://user-images.githubusercontent.com/93177880/219829889-093b41ff-41dc-4c4a-b66e-c7db3b995f29.png)
+
+
+Você que chegou até aqui, obrigado por visitar meu perfi. Sou entusiasta em programação e apaixonado por tecnologia. 
+Estou orgulhoso de participar do evento NLW, me proporcionou aprender React, TypeScript e muitas outras tecnologias 
+agregadas ao desenvolvimento mobile com React Native. Achei incrível a experiência, pois posso usar o que venho aprendendo 
+com Vanilla JavaScript. Quero poder compartilhar meus conhecimentos com equipes de DEVS. No início do perfil tem as minhas 
+redes de conexão, bora trocar ideia e desenvolver algo novo.
