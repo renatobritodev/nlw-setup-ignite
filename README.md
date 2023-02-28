@@ -12,8 +12,11 @@ Projeto portfolio desenvolvido pela Rocketseat no evento NLW
 ![image](https://user-images.githubusercontent.com/93177880/219829889-093b41ff-41dc-4c4a-b66e-c7db3b995f29.png)
 
 
-Você que chegou até aqui, obrigado por visitar meu perfil. Sou entusiasta em programação e apaixonado por tecnologia. 
-Tenho orgulho em participar do evento NLW produzido pela Rocketseat, me proporcionou aprender alguams tecnologias como:
-React, React Native, TypeScript, Node e muitas outras. Achei incrível a experiência, pois posso usar o que venho aprendendo 
-com Vanilla JavaScript. Quero poder compartilhar meus conhecimentos com equipes de DEVS. No início do perfil tem as minhas 
-redes de conexão, bora trocar ideia e desenvolver algo novo.
+### Hey! Você que chegou até aqui,
+valeu pela visita. :) Sou entusiasta em programação e apaixonado por tecnologia.
+Aprendi tecnologias novas com os Devs da Rocketseat, através do NLW Setup.
+
+## O que aprendi e continuo aprendendo!
+React, React Native, TypeScript, Node e muitas outras. Achei incrível a experiência, pois posso usar o conhecimento para tal com Vanilla JavaScript. Quero poder compartilhar meus conhecimentos com a equipe e aprimorar o meu hehe. No início do perfil você pode ver minhas redes sociais, bora trocar uma ideia e desenvolver algo novo.
+
+{ Renato Brito }
