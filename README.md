@@ -17,6 +17,8 @@ valeu pela visita. :) Sou entusiasta em programação e apaixonado por tecnologi
 Aprendi tecnologias novas com os Devs da Rocketseat, através do NLW Setup.
 
 ## O que aprendi e continuo aprendendo!
-React, React Native, TypeScript, Node e muitas outras. Achei incrível a experiência, pois posso usar o conhecimento para tal com Vanilla JavaScript. Quero poder compartilhar meus conhecimentos com a equipe e aprimorar o meu hehe. No início do perfil você pode ver minhas redes sociais, bora trocar uma ideia e desenvolver algo novo.
+React, React Native, TypeScript, Node e muitas outras. Achei incrível a experiência, 
+pois posso usar o conhecimento para tal com Vanilla JavaScript. Quero compartilhar conhecimentos com a equipe e aprender também.
+No início do perfil você pode ver minhas redes sociais, bora trocar uma ideia e desenvolver algo novo.
 
 { Renato Brito }
